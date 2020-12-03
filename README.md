@@ -21,11 +21,11 @@ Optimization of cloud-based computing, analytical skills of complex weather data
 Implementation in smart home ecosystems.
 
 # Built With
-cv2
-dlib
-google-cloud
-googlevision
-numpy
-opencv
-openweathermap
-scipy
+*cv2*
+*dlib*,
+*google-cloud*,
+*googlevision*,
+*numpy*,
+*opencv*,
+*openweathermap*,
+*scipy*
